@@ -1,1 +1,1 @@
-# coffe-guide
+# coffee-guide
